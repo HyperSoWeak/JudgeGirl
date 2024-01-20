@@ -1,0 +1,1 @@
+void dividePolynomial(int f[], int g[]);
