@@ -1,3 +1,9 @@
-# NTU-CSIE-ComputerProgramming
+# JudgeGirl
 
-2023 計算機程式設計 劉邦鋒
+這個 repo 是我在「2023 計算機程式設計」課程中使用 [JudgeGirl](https://judgegirl.csie.org/) 線上測驗系統所寫的解答存檔，課程由劉邦鋒老師授課。
+
+這些程式碼為我個人的解法，非官方解答，歡迎大家自由參考或討論！
+
+## 聯絡我
+
+如果你對這些題目或解答有任何疑問，歡迎與我聯絡！
